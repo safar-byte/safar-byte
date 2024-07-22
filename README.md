@@ -1,6 +1,6 @@
 ## Hi there 👋
 :wave: Hi there! I'm Safar :rocket:
-:male-technologist: Btech Graduate | Open Source Enthusiast | Developer-Designer
+Btech Graduate | Open Source Enthusiast | Developer-Designer
 :telescope: Currently working on tools that simplify scientific research.
 :seedling: Learning and experimenting with Automation, Machine Learning and Algorithms.
 :speech_bubble: Ask me about Python, Java, C, C++, C#.
