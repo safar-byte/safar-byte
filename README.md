@@ -1,5 +1,6 @@
 ## Hi there 👋
-:wave: Hi there! I'm Safar :rocket:
+:wave: Hi there! I'm Safar 
+:rocket:
 Btech Graduate | Open Source Enthusiast | Developer-Designer
 :telescope: Currently working on tools that simplify scientific research.
 :seedling: Learning and experimenting with Automation, Machine Learning and Algorithms.
