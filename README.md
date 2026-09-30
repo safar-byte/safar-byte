@@ -7,4 +7,4 @@
 :zap: Fun fact: I love designing and athletics!<br />
 Good day! :smile:<br />
 ## GitHub Stats
-[![Sreedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=safar-byte&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Safar's GitHub stats](https://github-readme-stats.vercel.app/api?username=safar-byte&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
